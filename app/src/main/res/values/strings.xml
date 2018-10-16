@@ -1,0 +1,224 @@
+<resources>
+    <string name="app_name">Tour Guidee App</string>
+    <string name="category_places">Places</string>
+    <string name="category_food">Food</string>
+    <string name="category_events">Events</string>
+    <string name="category_lodging">Lodging</string>
+
+    <string name="food_amala">Amala Spot</string>
+    <string name="food_amala_description">Try one of the favourite meals in Lagos, made from cassava flour.</string>
+    <string name="food_amala_spot">6 Bourdillon Road, Ikoyi, Lagos</string>
+    <string name="food_amala_number">+2347098216754</string>
+    <string name="food_amala_timing">Mondays - Saturdays: 8AM-6PM</string>
+    <string name="food_amala_pricing">N250 and above</string>
+
+    <string name="food_terra">The Food Lounge, Terra Kulture</string>
+    <string name="food_terra_description">Nothing comes close to their delicious blend of firewood stewed rice.</string>
+    <string name="food_terra_spot">Plot 1376, Tiamiyu Savage St, Off Ahmadu Bello Way, Victoria Island Lagos</string>
+    <string name="food_terra_number">+23412700588</string>
+    <string name="food_terra_timing">\"Mondays - Sundays: 10AM–10PM</string>
+    <string name="food_terra_pricing">N850 and above</string>
+
+
+    <string name="food_boli">Grills In and Out</string>
+    <string name="food_boli_description">Eat the famous boli street food in style - Plantain with fish and much more.</string>
+    <string name="food_boli_spot">Beside Forte Oil, 7a Admiralty Rd, Lekki Phase 1, Lekki</string>
+    <string name="food_boli_number">+234012915500</string>
+    <string name="food_boli_timing">Open 24 HOURS</string>
+    <string name="food_boli_pricing">N1,000</string>
+
+
+    <string name="food_hard_rock">Hard Rock Cafe</string>
+    <string name="food_hrc_description">Rock ’n’ roll-themed chain with a high-energy vibe serving burgers and lots more.</string>
+    <string name="food_hrc_spot">3 and 4, Block XVI, Oniru Estate, Victoria Island, Lagos</string>
+    <string name="food_hrc_number">+2349081988888</string>
+    <string name="food_hrc_timing">Mondays - Sundays: 12PM-2AM</string>
+    <string name="food_hrc_pricing">N7,000 and above</string>
+
+    <string name="food_so_fresh">So Fresh</string>
+    <string name="food_fresh_description">Go to Restaurant for healthy snacks, smoothies and parfaits.</string>
+    <string name="food_fresh_spot">92 Awolowo Rd, Ikoyi, Lagos</string>
+    <string name="food_fresh_number">+2348149906262</string>
+    <string name="food_fresh_timing">Mondays - Sundays: 7AM–8:30PM</string>
+    <string name="food_fresh_pricing">N500 and above</string>
+
+
+    <string name="food_the_place">The Place</string>
+    <string name="food_place_description">Fast food restaurant with a wide range of local food options</string>
+    <string name="food_place_spot">Plot 3B, Block A10 Admiralty Way, Lekki Phase 1, Lagos</string>
+    <string name="food_place_number">+234012772078</string>
+    <string name="food_place_timing">Open 24 HOURS </string>
+    <string name="food_place_pricing">N1500 and above</string>
+
+
+    <string name="food_suya">Ibb Suya Spot</string>
+    <string name="food_suya_description">Spicy Beef and Chicken suya spot</string>
+    <string name="food_suya_spot">12  Ahmadu Bello Way, Victoria Island, Lagos</string>
+    <string name="food_suya_number">+23409097377757</string>
+    <string name="food_suya_timing">Mondays - Sundays: 6PM-2AM</string>
+    <string name="food_suya_pricing">N500 and above</string>
+
+    <string name="event_travel">Nigeria Travel Week</string>
+    <string name="event_travel_description">A multi-day tourism event platform to promote tourism by bringing together buyers, consumers, travel tech, tourism/travel service providers and the media to network, review and discuss the development of tourism in Nigeria and Africa</string>
+    <string name="event_travel_spot">Federal Palace Hotel, Ahmadu Bello Way Lagos.</string>
+    <string name="event_travel_number">N/A</string>
+    <string name="event_travel_timing">8AM Nov 23, 2018 – 11PM Nov 24, 2018</string>
+    <string name="event_travel_pricing">FREE</string>
+
+    <string name="event_fintech">The Africa Fintech Summit - Lagos</string>
+    <string name="event_fintech_description"> AFTS Lagos will gather leading disruptors, tech and finance professionals, regulators, and investors from around the globe to debate policies, compare best practices, and forge ventures.</string>
+    <string name="event_fintech_spot">Civic Centre, Ozumba Mbadiwe Road, Victoria Island, Lagos</string>
+    <string name="event_fintech_number">N/A</string>
+    <string name="event_fintech_timing">8AM 8 Nov 2018 – 3PM 9 Nov 2018</string>
+    <string name="event_fintech_pricing">$400-$500</string>
+
+    <string name="event_plussize">Plussize Fashion Week 2018</string>
+    <string name="event_plussize_description">First and only fashion runway show ever dedicated to Plus Size Models and Apparels</string>
+    <string name="event_plussize_spot">Lagos Oriental Hotel, 3 Lekki - Epe Expressway.</string>
+    <string name="event_plussize_number">N/A</string>
+    <string name="event_plussize_timing">3PM Nov 3, 2018 – 10PM Nov 4, 2018</string>
+    <string name="event_plussize_pricing">FREE</string>
+
+    <string name="event_summit">West African Leadership Summit</string>
+    <string name="event_summit_description">West African Leadership Summit is designed to gather in one place leaders from the West Africa region to deliberate on improving the quality of leaders in the region.</string>
+    <string name="event_summit_spot">Lagos Oriental Hotel, 3 Lekki Road Lekki Lagos</string>
+    <string name="event_summit_number">N/A</string>
+    <string name="event_summit_timing">Oct 21, 2018. 1PM-6PM</string>
+    <string name="event_summit_pricing">FREE</string>
+
+    <string name="event_cocktail">Lagos Cocktail Week 2018</string>
+    <string name="event_cocktail_description">The festival showcases the best of the Nigerian cocktail scene.</string>
+    <string name="event_cocktail_spot">Federal Palace Hotels, 6 Ahmadu Bello Way, Victoria Island Lagos</string>
+    <string name="event_cocktail_number">+234012779000</string>
+    <string name="event_cocktail_timing">Oct 16 -17, 9AM DAILY </string>
+    <string name="event_cocktail_pricing">FREE</string>
+
+    <string name="event_zumba">STRONG by Zumba class</string>
+    <string name="event_zumba_description">A high-intensity workout where every move is synced to a beat. Using only your body weight, STRONG by Zumba® will test your strength and stamina in a powerful cardio and muscle-conditioning session in one, all led by music.</string>
+    <string name="event_zumba_spot">Bodyline Gym Ikoyi Lagos. No 6 Murtala Muhammed Dr, Ikoyi, Lagos, Nigeria </string>
+    <string name="event_zumba_number">070026395463</string>
+    <string name="event_zumba_timing">Oct 13, 11AM</string>
+    <string name="event_zumba_pricing">Free</string>
+
+    <string name="event_ijoya">Ijoya</string>
+    <string name="event_ijoya_description">IJOYA utilizes DANCE as a form of exercise to maintain healthy active lifestyle, a key factor in cancer prevention</string>
+    <string name="event_ijoya_spot">National Stadium. Surulere, Lagos.</string>
+    <string name="event_ijoya_timing">Oct 13, 9AM </string>
+    <string name="event_ijoya_number">N/A</string>
+    <string name="event_ijoya_pricing">FREE </string>
+
+    <string name="event_fela">Felabration</string>
+    <string name="event_fela_description">Felabration is our annual festival of music and arts commemorating the life and times of Nigeria’s foremost musical icon, the late great Fela Anikulakpo Kuti.</string>
+    <string name="event_fela_spot">NERDC ROAD, Agidingbi, Ikeja, Lagos</string>
+    <!--<string name="event_fela_contact">http://www.felabration.net/</string>-->
+    <string name="event_fela_timing">8AM Oct 15 - 5PM Oct 21. </string>
+    <string name="event_fela_number">N/A</string>
+    <string name="event_fela_pricing">N1,000</string>
+
+
+    <string name="place_craft">Lekki Arts and Craft Market </string>
+    <string name="place_craft_description">Hidden in plain sight, this market is a gem that does well to showcase the beauty that African art can be.</string>
+    <string name="place_craft_spot">Oba Elegushi St, Lekki Peninsula II, Lekki</string>
+    <string name="place_craft_number">N/A</string>
+    <string name="place_craft_timing">Mondays - Saturdays: 10AM-7PM</string>
+    <string name="place_craft_pricing">Free</string>
+
+
+    <string name="place_kalakuta">Kalakuta Museum</string>
+    <string name="place_kalakuta_description">It is a well organized museum with well preserved antiques of the legendary Afrobeat king Fela.</string>
+    <string name="place_kalakuta_spot">Lagos 7 Gbemisola Street Allen, 100281</string>
+    <string name="place_kalakuta_number">+2348023137307</string>
+    <string name="place_kalakuta_timing">Mondays - Sundays: 10AM-6PM</string>
+    <string name="place_kalakuta_pricing">Free</string>
+
+
+    <string name="place_nike">Nike Art Gallery</string>
+    <string name="place_nike_description">Nike Art Gallery is an art gallery in Lagos owned by Nike Davies-Okundaye. The gallery is arguably the largest of its kind in West Africa. Housed in a five-storey tall building, it boasts a collection of about 8,000 diverse artworks from various Nigerian artists.</string>
+    <string name="place_nike_spot">2 Elegushi Beach Road off Lekki, Expressway, Lagos</string>
+    <string name="place_nike_number">+234012705964</string>
+    <string name="place_nike_timing">Mondays - Sundays: 9AM-6PM </string>
+    <string name="place_nike_pricing">Free</string>
+
+    <string name="place_lcc">Lekki Conservation Center</string>
+    <string name="place_lcc_description">One of the best nature reserves in Nigeria and home to the longest canopy walkway in Africa. </string>
+    <string name="place_lcc_spot">19 Lekki - Epe Expy, Lekki Peninsula II, Lekki</string>
+    <string name="place_lcc_number">+2349065460479</string>
+    <string name="place_lcc_timing">Mondays - Sundays: 8:30AM-5PM</string>
+    <string name="place_lcc_pricing">N2,000</string>
+
+
+    <string name="place_hi_impact">Hi Impact Planet</string>
+    <string name="place_hi_impact_description">An amusement, theme park and resort on the outskirts of Lagos along the Lagos–Ibadan Expressway</string>
+    <string name="place_hi_impact_spot">Km 12, Lagos - Ibadan Expressway, Ibafo. </string>
+    <string name="place_hi_impact_number">+2347029405423</string>
+    <string name="place_hi_impact_timing">Tuesdays - Sundays: 11AM–6PM</string>
+    <string name="place_hi_impact_pricing">N10,000</string>
+
+
+    <string name="place_tarkwa_bay">Takwa Bay</string>
+    <string name="place_tarkwa_bay_description">Tarkwa Bay is an artificial sheltered beach located near the Lagos harbour in Nigeria.</string>
+    <string name="place_tarkwa_bay_spot">Tarkwa Bay Beach</string>
+    <string name="place_tarkwa_bay_number">N/A</string>
+    <string name="place_tarkwa_bay_timing">Open 24 hours</string>
+    <string name="place_tarkwa_bay_pricing">FREE</string>
+
+    <string name="place_freedom_park">Freedom Park</string>
+    <string name="place_freedom_park_description">Freedom Park is a memorial and leisure park area in the middle of downtown Lagos in Lagos Island, Nigeria.</string>
+    <string name="place_freedom_park_spot">Broad Street, Lagos Island, Lagos</string>
+    <string name="place_freedom_park_number">+2348095006567</string>
+    <string name="place_freedom_park_timing">Mondays - Sundays: 11AM-11PM</string>
+    <string name="place_freedom_park_pricing">FREE</string>
+
+    <string name="lodging_oriental">Oriental Hotel</string>
+    <string name="lodging_oriental_description">An Oriental style 5-Star luxury hotel.</string>
+    <string name="lodging_oriental_spot"> 3 Lekki - Epe Expy, Victoria Island, Lagos</string>
+    <string name="lodging_oriental_number">+234012806600</string>
+    <string name="lodging_oriental_timing">CHECK-IN: 12NOON </string>
+    <string name="lodging_oriental_pricing">N65,000 above</string>
+
+    <string name="lodging_eko">Eko Hotel and Suites</string>
+    <string name="lodging_eko_description">Eko Hotels and Suites is an amazing hotel and it is all about the right mix! </string>
+    <string name="lodging_eko_spot">1415 Adetokunbo Ademola Street, Victoria Island, Lagos</string>
+    <string name="lodging_eko_number"> +234012772700</string>
+    <string name="lodging_eko_timing">CHECK-IN: 1PM </string>
+    <string name="lodging_eko_pricing">N64,000 above</string>
+
+
+    <string name="lodging_tropicana">La Campagne Tropicana</string>
+    <string name="lodging_tropicana_description">La Campagne Tropicana is a private 60-acre beach resort in Lekki, Lagos. La Campagne Tropicana Beach Resort combines an African themed hospitality with modern luxury.</string>
+    <string name="lodging_tropicana_spot">Ibeju-Lekki Road, Lagos</string>
+    <string name="lodging_tropicana_number">+2348052225226</string>
+    <string name="lodging_tropicana_timing">CHECK-IN: 12NOON</string>
+    <string name="lodging_tropicana_pricing">N24,000 above</string>
+
+
+    <string name="lodging_ibis">Hotel ibis Lagos Airport</string>
+    <string name="lodging_ibis_description">Ideal for travelers on a budget, it is a 3-Star Travel Hotel.</string>
+    <string name="lodging_ibis_spot">Airport Road, Ajao Estate, Lagos</string>
+    <string name="lodging_ibis_number">+234014483470</string>
+    <string name="lodging_ibis_timing">CHECK-IN: 12NOON</string>
+    <string name="lodging_ibis_pricing">N12,000 above</string>
+
+    <string name="lodging_radisson">Radisson Blu Anchorage Hotel.</string>
+    <string name="lodging_radisson_description">Sits on the banks of the upscale Victoria Island in beautiful Lagos Lagoon</string>
+    <string name="lodging_radisson_spot">1a Ozumba Mbadiwe Avenue, Victoria Island, Lagos</string>
+    <string name="lodging_radisson_number">+2347080610000</string>
+    <string name="lodging_radisson_timing">CHECK-IN: 12NOON </string>
+    <string name="lodging_radisson_pricing">N101,000 above</string>
+
+
+    <string name="lodging_george">The George Lagos Hotel</string>
+    <string name="lodging_george_description">Set in Lagos and with Sport Center reachable within 2953 feet, The George Hotel features an outdoor swimming pool, nonsmoking rooms, free WiFi throughout the property and a fitness center.</string>
+    <string name="lodging_george_spot">30 Lugard Avenue, Ikoyi, Lagos</string>
+    <string name="lodging_george_number">+234014663660</string>
+    <string name="lodging_george_timing">Open 24 HOURS </string>
+    <string name="lodging_george_pricing">N133,000 above</string>
+
+
+    <string name="lodging_lilygate">The Lilygate Hotel</string>
+    <string name="lodging_lilygate_description">An Amazing new hotel experience located on the Lekki peninsula with easy access to major parts of Lagos.</string>
+    <string name="lodging_lilygate_spot"> 2 Olubunmi Owa St, Lekki Phase I, Lagos</string>
+    <string name="lodging_lilygate_number">+234019049000</string>
+    <string name="lodging_lilygate_timing">CHECK-IN: 12NOON</string>
+    <string name="lodging_lilygate_pricing">N33,000 above</string>
+</resources>
